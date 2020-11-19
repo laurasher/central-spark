@@ -54,7 +54,7 @@ function drawRandomPattern(x, y) {
     // console.log(x)
 	translate(x, y);
 	//scale
-	translate(gridSize, gridSize*4);
+	translate(gridSize, gridSize*2);
 	// scale(zoom);
 	// translate(-gridSize/2, -gridSize/2);
 	
